@@ -1,0 +1,10 @@
+{
+    "event_id": "00000000000000000000000000000007",
+    "message": "example",
+    "level": "warning",
+    "transaction": "main.cc:10",
+    "extra": {
+        "source": "https://github.com/sploid/samples/blob/v0.1/README.md?plain=1#L5"
+    },
+    "fingerprint": ["three"]
+}

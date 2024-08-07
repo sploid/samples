@@ -1,0 +1,7 @@
+{
+    "event_id": "00000000000000000000000000000001",
+    "message": "example",
+    "level": "error",
+    "transaction": "main.cc:10",
+    "fingerprint": ["one"]
+}

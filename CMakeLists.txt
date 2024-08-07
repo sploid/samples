@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.21 FATAL_ERROR)
+cmake_policy(SET CMP0135 NEW)
+project("Samples")
+set(CMAKE_CXX_STANDARD 20)
+add_definitions(-D_CRT_SECURE_NO_WARNINGS -DNOMINMAX)
+find_package(Qt6 COMPONENTS Core REQUIRED)
+add_subdirectory(logs)
